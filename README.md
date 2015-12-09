@@ -1,4 +1,8 @@
+<<<<<<< 123f52ff11dc1fe39619fe7d2f2fbc518febcb65
 # GeoSmartCity Client Side JavaScript Library API
+=======
+# GeoSmartCity client feature for [Workflow alert event](../wiki/workflow-alert-event)
+>>>>>>> Update README.md
 
 ## Status
 * The library is under Development
