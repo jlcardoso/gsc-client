@@ -1,3 +1,4 @@
+<<<<<<< 64fa84d4ec46c5f9bfdc2e44d2e0f425949fd954
 <<<<<<< 123f52ff11dc1fe39619fe7d2f2fbc518febcb65
 # GeoSmartCity Client Side JavaScript Library API
 =======
@@ -22,6 +23,14 @@ todo
  * Start coding your feature
 
 
+#d
 
 ## Funding
 The development of gsc.js is part-funded by the European Commission through the GeoSmartCities project.
+=======
+# GSC client feature for Workflow alert feature
+
+
+* [Workflow alert event](../wiki/workflow-alert-event)
+
+>>>>>>> Update README.md
