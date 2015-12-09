@@ -1,3 +1,4 @@
-# GeoSmartCity client feature for [Workflow alert event](../wiki/workflow-alert-event)
+# GSC client feature for Workflow alert feature
 
-[project wiki pages] (https://github.com/GeoSmartCity-CIP/gsc-client/wiki)
+* [Workflow alert event](../wiki/workflow-alert-event)
+
