@@ -1,3 +1,4 @@
+<<<<<<< 882748eb60291d5e39fcde117f0d0ccc05b59d84
 <<<<<<< 64fa84d4ec46c5f9bfdc2e44d2e0f425949fd954
 <<<<<<< 123f52ff11dc1fe39619fe7d2f2fbc518febcb65
 # GeoSmartCity Client Side JavaScript Library API
@@ -33,4 +34,15 @@ The development of gsc.js is part-funded by the European Commission through the 
 
 * [Workflow alert event](../wiki/workflow-alert-event)
 
+>>>>>>> Update README.md
+=======
+# GSC client feature for Workflow alert event
+
+* testing: [http://geo.mapshakers.com:222/websites/GSC/test/alertevent/](http://geo.mapshakers.com:222/websites/GSC/test/alertevent/)
+
+
+## Features
+* get config json
+* comment event
+* create event
 >>>>>>> Update README.md
