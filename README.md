@@ -1,4 +1,9 @@
-# GSC client feature for Workflow alert feature
+# GSC client feature for Workflow alert event
 
-* [Workflow alert event](../wiki/workflow-alert-event)
+* testing: [http://geo.mapshakers.com:222/websites/GSC/test/alertevent/](http://geo.mapshakers.com:222/websites/GSC/test/alertevent/)
 
+
+## Features
+* get config json
+* comment event
+* create event
