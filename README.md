@@ -1,7 +1,7 @@
 # GSC client feature for Workflow alert event
 Client side library for interaction with [crowd-sourcing servlet](https://github.com/GeoSmartCity-CIP/crowd-sourcing)
 
-Administration platform: [Alert event workflow](Alert event workflow)
+Administration platform: [Alert event workflow](https://github.com/GeoSmartCity-CIP/gsc-client/wiki/Alert-event-workflow)
 
 Testing: [http://geo.mapshakers.com:222/websites/GSC/test/alertevent/](http://geo.mapshakers.com:222/websites/GSC/test/alertevent/)</br>
 Test files are located in ```test/alerevent/```
