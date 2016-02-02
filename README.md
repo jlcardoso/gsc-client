@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< 882748eb60291d5e39fcde117f0d0ccc05b59d84
 <<<<<<< 64fa84d4ec46c5f9bfdc2e44d2e0f425949fd954
 <<<<<<< 123f52ff11dc1fe39619fe7d2f2fbc518febcb65
@@ -39,6 +40,11 @@ The development of gsc.js is part-funded by the European Commission through the 
 # GSC client feature for Workflow alert event
 Client side library for interaction with [crowd-sourcing servlet](https://github.com/GeoSmartCity-CIP/crowd-sourcing)
 
+=======
+# GSC client feature for Workflow alert event
+Client side library for interaction with [crowd-sourcing servlet](https://github.com/GeoSmartCity-CIP/crowd-sourcing)
+
+>>>>>>> 6bf130efbda37c0039c7d75cba86e811b9fa23b9
 Administration platform: [Alert event workflow](https://github.com/GeoSmartCity-CIP/gsc-client/wiki/Alert-event-workflow)
 
 Testing: [http://geo.mapshakers.com:222/websites/GSC/test/alertevent/](http://geo.mapshakers.com:222/websites/GSC/test/alertevent/)</br>
@@ -48,4 +54,7 @@ Test files are located in ```test/alerevent/```
 * get config json
 * comment event
 * create event
+<<<<<<< HEAD
 >>>>>>> Update README.md
+=======
+>>>>>>> 6bf130efbda37c0039c7d75cba86e811b9fa23b9
