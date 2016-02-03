@@ -20,9 +20,7 @@ module.exports = function (grunt) {
                 nonull: true,
                 src: [
                     'src/<%= pkg.name %>.js',
-                    'src/auth/LoginSession.js',
-                    'src/auth/User.js',
-                    'src/auth/auth.js'
+                    'src/alertevent/alertevent.js',
                 ],
                 dest: 'dist/<%= pkg.name %>.js'
             },
@@ -96,6 +94,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks("grunt-jscs");
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-jsdoc');
+
 
 
     // Default task.

@@ -15,4 +15,3 @@ var gsc = {
    */
   version: '0.1.0'
 };
-
