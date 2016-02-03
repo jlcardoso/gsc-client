@@ -2,6 +2,7 @@
 GeoSmartCity client feature for [Workflow alert event](../wiki/workflow-alert-event)
 
 
+
 Administration platform: [Alert event workflow](https://github.com/GeoSmartCity-CIP/gsc-client/wiki/Alert-event-workflow)
 
 Testing: [http://geo.mapshakers.com:222/websites/GSC/test/alertevent/](http://geo.mapshakers.com:222/websites/GSC/test/alertevent/)</br>
