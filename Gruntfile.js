@@ -20,7 +20,7 @@ module.exports = function (grunt) {
                 nonull: true,
                 src: [
                     'src/<%= pkg.name %>.js',
-                    'src/alertevent/alertevent.js',
+                    'src/cs/cs.js',
                 ],
                 dest: 'dist/<%= pkg.name %>.js'
             },
