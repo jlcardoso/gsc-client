@@ -1,7 +1,21 @@
 # GeoSmartCity Client Side JavaScript Library API
+[![Build Status](https://travis-ci.org/GeoSmartCity-CIP/gsc-client.svg?branch=feature%2Fworkflow-alert-event)](https://travis-ci.org/GeoSmartCity-CIP/gsc-client)
+
 GeoSmartCity client feature for [Workflow alert event](../wiki/workflow-alert-event)
 
-[![Build Status](https://travis-ci.org/GeoSmartCity-CIP/gsc-client.svg?branch=feature%2Fworkflow-alert-event)](https://travis-ci.org/GeoSmartCity-CIP/gsc-client)
+## How to install
+```bash
+# clone repository
+git clone https://github.com/GeoSmartCity-CIP/gsc-client.git
+
+# to isntall package (dependecies,...)
+npm install
+
+# to run tasks (jhint, nodeunit, concat, uglify, jsdoc)
+grunt
+```
+
+
 
 Administration platform: [Alert event workflow](https://github.com/GeoSmartCity-CIP/gsc-client/wiki/Alert-event-workflow)
 
