@@ -8,10 +8,10 @@ GeoSmartCity client feature for [Workflow alert event](../wiki/workflow-alert-ev
 # clone repository
 git clone https://github.com/GeoSmartCity-CIP/gsc-client.git
 
-# to isntall package (dependecies,...)
+# to install package (dependecies,...)
 npm install
 
-# to run tasks (jhint, nodeunit, concat, uglify, jsdoc)
+# to build entire project (jhint, nodeunit, concat, uglify, jsdoc)
 grunt
 ```
 
