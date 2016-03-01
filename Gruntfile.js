@@ -22,7 +22,8 @@ module.exports = function (grunt) {
                     'src/<%= pkg.name %>.js',
                     'src/auth/LoginSession.js',
                     'src/auth/User.js',
-                    'src/auth/auth.js'
+                    'src/auth/auth.js',
+                    'src/upload/upload.js'
                 ],
                 dest: 'dist/<%= pkg.name %>.js'
             },
