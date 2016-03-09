@@ -30,4 +30,4 @@ Testing: [http://geo.mapshakers.com:222/websites/GSC/test/cs/](http://geo.mapsha
 * create event
 
 ## Licence
-gsc.cs is free software, and may be redistributed under the MIT-LICENSE.
+*gsc.js* is free software, and may be redistributed under the EUPL v.1.1 LICENSE..
