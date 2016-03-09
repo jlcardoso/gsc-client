@@ -1,7 +1,8 @@
 # GeoSmartCity Client Side JavaScript Library API
-[![Build Status](https://travis-ci.org/GeoSmartCity-CIP/gsc-client.svg?branch=feature%2Fworkflow-alert-event)](https://travis-ci.org/GeoSmartCity-CIP/gsc-client)
+**gsc.js** is a productivity library for rapid spatial web application development. The library builds on jQuery, OpenLayers3 and invokes methods from an instance of the GeoSmartCity Hub.
 
-GeoSmartCity client feature for [Workflow alert event](../wiki/workflow-alert-event)
+## Status
+* The library is under development
 
 ## How to install
 ```bash
@@ -15,19 +16,22 @@ npm install
 grunt
 ```
 
+## How to contribute
+ * Look at the table of responsibilities [here](https://github.com/GeoSmartCity-CIP/gsc-client/wiki/List-of-tasks-and-responsible-partner) and for a clarification use delivered mockups
+ * Create a new branch ([how to](https://github.com/GeoSmartCity-CIP/gsc-client/wiki/git-workflow#starting-a-new-feature))
+ * As an example you can use [this feature branch](https://github.com/GeoSmartCity-CIP/gsc-client/tree/feature/workflow-alert-event) if there is a bug, open issue
+ * Start coding your feature
 
 
-Administration platform: [Alert event workflow](https://github.com/GeoSmartCity-CIP/gsc-client/wiki/Alert-event-workflow)
+## Useful links for contributors
+* [wiki pages] (https://github.com/GeoSmartCity-CIP/gsc-client/wiki)
+* [Project pages](http://hub.geosmartcity.eu/gsc-client/index.html)
+* [API documentation](http://hub.geosmartcity.eu/gsc-client/doc/index.html)
+* [Examples](http://hub.geosmartcity.eu/gsc-client/examples/index.html)
+* [Meeting timetable and minutes] (https://github.com/GeoSmartCity-CIP/gsc-client/wiki/Meeting-timetable-and-minutes)
 
-API reference: [http://geo.mapshakers.com:222/websites/GSC/doc/gsc.cs.html](http://geo.mapshakers.com:222/websites/GSC/doc/gsc.cs.html)
+## Funding
+The development of gsc.js is part-funded by the European Commission through the GeoSmartCity project.
 
-Testing: [http://geo.mapshakers.com:222/websites/GSC/test/cs/](http://geo.mapshakers.com:222/websites/GSC/test/cs/)
-
-
-## Features
-* get config json
-* comment event
-* create event
-
-## Licence
-*gsc.js* is free software, and may be redistributed under the EUPL v.1.1 LICENSE..
+## Licence 
+*gsc.js* is free software, and may be redistributed under the EUPL v.1.1 LICENSE.
