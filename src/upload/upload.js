@@ -208,3 +208,10 @@ gsc.upload.Data.prototype.send = function(pc, sc, fc) {
     request.send(formData);
   }
 };
+
+module.exports.upload = gsc.upload;
+module.exports.upload.Data = gsc.upload.Data;
+module.exports.upload.Data.isFileSizeCorrect = gsc.upload.Data.prototype.isFileSizeCorrect();
+module.exports.upload.Data.isFileTypeCorrect = gsc.upload.Data.prototype.isFileTypeCorrect();
+module.exports.upload.Data.isShapefileCorrect = gsc.upload.Data.prototype.isShapefileCorrect();
+module.exports.upload.Data.Send = gsc.upload.Data.prototype.send();
